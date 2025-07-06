@@ -1,6 +1,6 @@
 # My Rules and Workflows
 
-This repository contains rules and workflows to guide Cline's behavior.
+These are my personal global Cline rules and workflows which would normally live in my dotfiles if Cline wasn't fussy about their location. They aren't meticulously prompt engineered or eval'd, I create and tweak these as needed to get my projects done.
 
 ## What are Cline Rules and Workflows?
 
