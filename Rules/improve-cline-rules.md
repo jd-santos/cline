@@ -1,6 +1,6 @@
 ---
 description: Defines a process for Cline to reflect on interactions and suggest improvements to active .clinerules.
-author: https://github.com/nickbaumann98
+author: JD
 version: 1.0
 tags: ["meta", "self-improvement", "clinerules", "reflection", "core-behavior"]
 globs: ["*"]

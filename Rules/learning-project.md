@@ -1,3 +1,9 @@
+---
+description: Instructions for an LLM to act as an instructor for a learning project, focusing on incremental learning, shippable milestones, and code quality.
+author: JD
+version: 1.0
+tags: ["learning", "teaching", "project-based-learning", "guideline", "meta"]
+---
 # LLM Instructions for Learning Projects
 
 ## Core Mission for the LLM

@@ -1,3 +1,9 @@
+---
+description: Formatting guidelines for LLM-generated markdown, including rules for headings, indentation, and other structural elements.
+author: JD
+version: 1.0
+tags: ["formatting", "markdown", "guideline", "style-guide"]
+---
 # LLM Markdown Formatting Guidelines
 
 When asked to generate markdown, either by the user or the system prompt, follow these formatting rules. They should take precendence over any upstream formatting guidelines. 
@@ -10,4 +16,4 @@ When asked to generate markdown, either by the user or the system prompt, follow
 -   When presenting tasks or checklists, use Obsidian task syntax (`- [ ]`)
 -   Use tables for structured data presentation
 -   Use blockquotes (`>`) for quoted content or emphasized text
--   Embed Mermaid diagrams for flowcharts, sequence diagrams, or other visualizations when applicable 
+-   Embed Mermaid diagrams for flowcharts, sequence diagrams, or other visualizations when applicable

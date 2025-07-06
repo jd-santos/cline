@@ -1,6 +1,6 @@
 ---
 description: A comprehensive guide to crafting high-quality advanced presentations using Slidev, covering advanced syntax, visuals, interactivity, customization, and deployment.
-author: Cline
+author: JD
 version: 1.0
 tags: ["slidev", "guide", "advanced", "presentation", "development"]
 globs: ["comprehensive-slide-dev-guide.md"]

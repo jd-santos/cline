@@ -1,3 +1,9 @@
+---
+description: Guidelines for using DuckDB with Python, emphasizing a DuckDB-first approach and strict policies for Pandas usage.
+author: JD
+version: 1.0
+tags: ["duckdb", "python", "guideline", "database", "best-practices"]
+---
 # LLM Guidelines for DuckDB and Python in This Project
 
 ## DuckDB is the Primary Tool
@@ -77,4 +83,3 @@ To ensure notebooks are readable, maintainable, and easily navigable, follow the
                 ORDER BY
                     column2;
                 \"\"\")
-    ```

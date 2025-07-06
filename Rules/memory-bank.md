@@ -1,3 +1,9 @@
+---
+description: Describes the Memory Bank process for maintaining project context, including file structure, workflows, and update triggers.
+author: JD
+version: 1.0
+tags: ["memory-bank", "context-management", "workflow", "documentation", "meta"]
+---
 # LLM Memory Bank
 
 These instructions describe the Memory Bank process developed by Cline. If the user invokes the memory bank, has a /docs/memory or /docs/memory-bank/ directory, or has docs that roughly align to this structure, follow the process described in the context of the user's request and project.
