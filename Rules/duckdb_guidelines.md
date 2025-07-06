@@ -4,7 +4,7 @@ author: JD
 version: 1.0
 tags: ["duckdb", "python", "guideline", "database", "best-practices"]
 ---
-# LLM Guidelines for DuckDB and Python in This Project
+# LLM Guidelines for DuckDB and Python Projects
 
 ## DuckDB is the Primary Tool
 

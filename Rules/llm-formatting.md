@@ -10,6 +10,7 @@ When asked to generate markdown, either by the user or the system prompt, follow
 
 ## Organization and Formatting Rules
 -   Use H1 for titles only, and subsequent headings (H2-H6) for sub-sections
+-   Do not use numbers or ordered lists unless the sequence is relevance to the topic
 -   Do not emphasis as a substitute for proper headings or other organizational structures
 -   Do not use periods at the end of bulleted items
 -   All code and Markdown indentations should use four spaces

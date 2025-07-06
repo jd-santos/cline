@@ -294,10 +294,3 @@ Export to PDF, PPTX, PNG, or Markdown using `slidev export`. Install `playwright
 
 **Browser Exporter:** Use the built-in UI at `/export` for interactive exporting with a live preview.
 
-### Hosting
-
-Deploy the built SPA (`dist` folder) to static hosting services like GitHub Pages, Netlify, or Vercel. Configuration files (`netlify.toml`, `vercel.json`, GitHub Actions workflow) are often included in starter templates. Host on Docker using provided images or by building your own Dockerfile.
-
-## Conclusion: Crafting Your Masterpiece
-
-Slidev provides a flexible and powerful platform for creating advanced, high-quality presentations. By mastering its syntax, leveraging its features for interactivity and visual appeal, and exploring its customization options, you can create presentations that are not only informative but also engaging and memorable. Focus on clear content, thoughtful design, and strategic use of interactive elements to make your Slidev presentations truly stand out. Utilize the advanced features like custom layouts, components, animations, code blocks, and customization options to tailor your presentation to your specific needs and audience. Remember to organize your project well and leverage the power of themes and addons for reusability and enhanced functionality.
