@@ -1,24 +1,24 @@
 # My Rules and Workflows
 
-This repository contains a collection of personal rules and workflows to guide Cline's behavior and processes.
+This repository contains rules and workflows to guide Cline's behavior.
 
 ## What are Cline Rules and Workflows?
 
-**Cline Rules** are Markdown files that serve as configuration and instruction sets for Cline. They define Cline's operational modes, preferred coding styles, specific knowledge bases, and behavioral guidelines. By providing these rules, you can tailor Cline's responses and actions to better suit your preferences and project requirements.
+**Cline Rules** are Markdown files that configure and instruct Cline. They define Cline's operational modes, coding styles, knowledge bases, and behavioral guidelines.
 
-**Workflows** (located in the `Workflows/` directory) are intended to be step-by-step procedures or automated sequences that Cline can follow to accomplish specific tasks. While currently empty, this directory is where you would define repeatable processes.
+**Workflows** (located in the `Workflows/` directory) are step-by-step procedures or automated sequences Cline can follow for specific tasks.
 
 ## Rules Overview
 
-Here's a summary of the custom rules defined in this repository:
+Custom rules defined in this repository:
 
-*   **`cline-rules.md`**: Provides guidelines and best practices for creating effective `.clinerules` to guide Cline's behavior and workflows.
-*   **`doc-writing.md`**: Sets rules for efficient technical writing and editing, focusing on clarity, conciseness, and token economy.
-*   **`duckdb_guidelines.md`**: Establishes guidelines for using DuckDB as the primary tool for data manipulation in Python projects, with strict policies on Pandas usage.
-*   **`improve-cline-rules.md`**: Defines a meta-process for Cline to reflect on interactions and suggest improvements to the active `.clinerules`.
-*   **`learning-project.md`**: Instructs Cline to act as a guide for a learning project, emphasizing incremental learning, shippable milestones, and code quality.
-*   **`llm-formatting.md`**: Specifies Markdown formatting guidelines for Cline to follow when generating content.
-*   **`memory-bank.md`**: Describes a "Memory Bank" system Cline must use to retain project context between sessions, as its memory resets.
-*   **`slides.md`**: A comprehensive guide on using Slidev to create advanced, high-quality presentations.
-*   **`svelte-project.md`**: Instructs Cline to act as a senior developer mentoring a user through a Svelte 5, TypeScript, and Tailwind CSS project.
-*   **`uv-python-usage.md`**: A comprehensive guide on using the `uv` tool for Python project and virtual environment management.
+*   **`cline-rules.md`**: Guidelines for creating effective `.clinerules` to guide Cline's behavior and workflows.
+*   **`doc-writing.md`**: Rules for efficient technical writing and editing, focusing on clarity, conciseness, and token economy.
+*   **`duckdb_guidelines.md`**: Guidelines for using DuckDB as the primary data manipulation tool in Python projects, with strict Pandas usage policies.
+*   **`improve-cline-rules.md`**: Defines a process for Cline to reflect on interactions and suggest improvements to active `.clinerules`.
+*   **`learning-project.md`**: Guides Cline to act as a learning project mentor, emphasizing incremental learning, shippable milestones, and code quality.
+*   **`llm-formatting.md`**: Markdown formatting guidelines for Cline when generating content.
+*   **`memory-bank.md`**: Describes a "Memory Bank" system Cline uses to retain project context between sessions, as its memory resets.
+*   **`slides.md`**: Guide on using Slidev for advanced, high-quality presentations.
+*   **`svelte-project.md`**: Guides Cline to act as a senior developer mentoring a user through a Svelte 5, TypeScript, and Tailwind CSS project.
+*   **`uv-python-usage.md`**: Guide on using the `uv` tool for Python project and virtual environment management.
